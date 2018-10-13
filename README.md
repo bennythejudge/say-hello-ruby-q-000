@@ -1,5 +1,7 @@
 # Say Hello
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/say-hello-ruby-q-000.svg)](https://www.guardrails.io)
+
 ## Objectives
 
 1. Build a method that can be called with an optional argument by defining that method with a default argument.
